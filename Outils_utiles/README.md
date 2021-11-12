@@ -14,7 +14,7 @@ Exemples :
 * Notepad++ sous Windows *(gratuit)*
 * BBEdit sous macOS *(gratuit ou payant)*
 
-## Un environnemnent de développement intégré ou IDE
+## Un environnement de développement intégré ou IDE
 
 Dans la suite de l'éditeur de texte, vous pourrez le remplacer avec l'expérience par votre IDE préféré.
 
