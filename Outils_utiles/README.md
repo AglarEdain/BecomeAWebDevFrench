@@ -19,3 +19,6 @@ Exemples :
 Dans la suite de l'éditeur de texte, vous pourrez le remplacer avec l'expérience par votre IDE préféré.
 
 L'environnement de développement reprend l'idée de l'éditeur de texte en allant plus loin. Beaucoup plus loin.
+
+Exemples
+* Visual Studio Code de Microsoft
