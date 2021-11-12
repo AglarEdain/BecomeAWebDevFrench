@@ -20,6 +20,6 @@ Dans la suite de l'éditeur de texte, vous pourrez le remplacer avec l'expérien
 
 L'environnement de développement reprend l'idée de l'éditeur de texte en allant plus loin. Beaucoup plus loin.
 
-Exemples
-* Visual Studio Code de Microsoft
-* Eclipse de la fondation du même nom
+Avec un IDE vous pourrez utiliser d'autres outils comme Git, gérer un projet avec son arborescence complète, etc…
+
+Exemples :
