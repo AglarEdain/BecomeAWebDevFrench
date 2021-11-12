@@ -22,3 +22,4 @@ L'environnement de développement reprend l'idée de l'éditeur de texte en alla
 
 Exemples
 * Visual Studio Code de Microsoft
+* Eclipse de la fondation du même nom
