@@ -23,3 +23,6 @@ L'environnement de développement reprend l'idée de l'éditeur de texte en alla
 Avec un IDE vous pourrez utiliser d'autres outils comme Git, gérer un projet avec son arborescence complète, etc…
 
 Exemples :
+* Visual Studio Code de Microsoft (gratuit)
+* Eclipse de la fondation du même nom (gratuit et même libre)
+* IntelliJ IDEA et PHPStorm (payant)
